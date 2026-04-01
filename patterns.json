@@ -1,1 +1,15 @@
+{
+  "patterns": [
+    {
+      "name": "up",
+      "folder": "up",
+      "type": "bullish"
+    },
+    {
+      "name": "down",
+      "folder": "down",
+      "type": "bearish"
+    }
+  ]
+}
 
